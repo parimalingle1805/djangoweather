@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\weather"
+    "\\lookup",
+    "\\lookup\\templates"
   ],
-  "SelectedNode": "\\manage.py",
+  "SelectedNode": "\\lookup\\views.py",
   "PreviewInSolutionExplorer": false
 }
